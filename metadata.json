@@ -1,0 +1,10 @@
+{
+  "name": "PackSure",
+  "description": "AI-powered Legal Metrology (Packaged Commodities) Rules, 2011 compliance verification, multi-angle packaging inspection, and violation pinpointing system.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
